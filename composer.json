@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/telegram",
+    "name": "mrjavadseydi/notif-telegram",
     "description": "Telegram Notifications Channel for Laravel",
     "keywords": [
         "telegram notification",
